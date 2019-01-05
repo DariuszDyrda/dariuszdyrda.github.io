@@ -13,3 +13,5 @@ Collection of simple JS projects
   [PaTaTap](http://patatap.com) clone made using external libraries:
     * Paper.js - displaying vector graphics and animations
     * Hower.js - dealing with sounds
+### 5. [YelpCamp](https://rocky-citadel-49016.herokuapp.com/)
+  Project made at the end of "The Web Developer Bootcamp". Major technologies: NodeJs, Express, EJS, MongoDB.
